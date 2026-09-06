@@ -55,7 +55,7 @@ A single source of truth (`lib/const/app_colors.dart`) drives every color in the
 | ⚫ Charcoal (text primary) | `#2D2A45` | Headings, primary text |
 | 🟣 Gray-purple (text secondary) | `#8B87A3` | Subtitles, secondary text |
 
-Category cards rotate through a 5-color pastel set (mint, sky, lavender, coral pink, sunflower) so the grid feels varied without clashing.
+
 ---
 
 ## ✨ Features
