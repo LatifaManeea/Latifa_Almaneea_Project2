@@ -1,0 +1,31 @@
+name: latifa_almaneea_project2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  confetti: ^0.8.0
+  html_unescape: ^2.0.0
+  http: ^1.6.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/quizzical_logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
