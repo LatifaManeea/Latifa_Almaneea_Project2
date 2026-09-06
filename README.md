@@ -38,6 +38,24 @@ Quizzical pulls categories and questions from the [Open Trivia Database](https:/
 | ![Splash](docs/screenshots/splash.png) | ![Categories](docs/screenshots/categories.png) | ![Quiz](docs/screenshots/quiz.png) | ![Results](docs/screenshots/results.png) | ![About](docs/screenshots/about.png) |
 
 </div>
+
+---
+
+## 🎨 Color Palette
+
+A single source of truth (`lib/const/app_colors.dart`) drives every color in the app — no hardcoded hex values scattered across screens.
+
+| Color | Hex | Usage |
+|---|---|---|
+| 🟢 Mint (primary) | `#3DDC97` | Buttons, active states, correct answers |
+| 🔵 Sky blue (secondary) | `#4FC3F7` | Gradients, accents |
+| 🟡 Sunflower (accent) | `#FFD166` | Confetti, small highlights |
+| ⚪ Off-white (background) | `#F9F8FD` | App background |
+| 🔴 Coral (wrong) | `#FF6B6B` | Incorrect answer feedback |
+| ⚫ Charcoal (text primary) | `#2D2A45` | Headings, primary text |
+| 🟣 Gray-purple (text secondary) | `#8B87A3` | Subtitles, secondary text |
+
+Category cards rotate through a 5-color pastel set (mint, sky, lavender, coral pink, sunflower) so the grid feels varied without clashing.
 ---
 
 ## ✨ Features
