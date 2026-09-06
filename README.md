@@ -38,9 +38,6 @@ Quizzical pulls categories and questions from the [Open Trivia Database](https:/
 | ![Splash](docs/screenshots/splash.png) | ![Categories](docs/screenshots/categories.png) | ![Quiz](docs/screenshots/quiz.png) | ![Results](docs/screenshots/results.png) | ![About](docs/screenshots/about.png) |
 
 </div>
-
-> Add your screenshots to a `docs/screenshots/` folder at the project root, named exactly: `splash.png`, `categories.png`, `quiz.png`, `results.png`, `about.png`.
-
 ---
 
 ## ✨ Features
